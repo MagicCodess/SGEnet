@@ -2,9 +2,9 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='SGnet',  
+     name='sggnet',  
      version='0.1',
-     scripts=['sgnet.py'] ,
+     scripts=['sgnet'] ,
      author="Akshat Gupta",
      author_email="akshat41121995@gmail.com",
      description="Python package for spelling and grammar correction",
@@ -14,7 +14,7 @@ setuptools.setup(
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3.5",
-         "License :: OSI Approved :: BSD Clause 3 License",
+         "License :: OSI Approved :: MIT License",
          "Operating System :: OS Independent",
      ],
  )
