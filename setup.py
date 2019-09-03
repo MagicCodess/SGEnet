@@ -2,9 +2,9 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='sggnet',  
+     name='spelly',  
      version='0.1',
-     scripts=['sgnet'] ,
+     scripts=['spelly'] ,
      author="Akshat Gupta",
      author_email="akshat41121995@gmail.com",
      description="Python package for spelling and grammar correction",
