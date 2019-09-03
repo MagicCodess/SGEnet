@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/spellygrammar.py
+src/spellygrammar.egg-info/PKG-INFO
+src/spellygrammar.egg-info/SOURCES.txt
+src/spellygrammar.egg-info/dependency_links.txt
+src/spellygrammar.egg-info/top_level.txt

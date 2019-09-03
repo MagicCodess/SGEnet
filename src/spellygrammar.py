@@ -1,14 +1,12 @@
-
-import numpy as np 
-import pandas as pd
-from subprocess import check_output
-import re
-from collections import Counter
-import wget
-import gzip
-import gensim
-
 def spelly(sent):
+    import numpy as np 
+    import pandas as pd
+    from subprocess import check_output
+    import re
+    from collections import Counter
+    import wget
+    import gzip
+    import gensim
     #Downloading word2vec
     print("Downloading  Word2vec...")
     url = "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
@@ -37,7 +35,6 @@ def spelly(sent):
         w_rank[word] = i
     WORDS = w_rank
 
-    WORDS = make_word2vec()
     print("Loading Word2vec Done.")
     print("Loading SGnet")
 
