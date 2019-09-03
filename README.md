@@ -5,7 +5,7 @@ Comprehensive Python library for spelling and grammar.<br><br>
 spellygrammarc(SGnet) is a comprehensive library for performing spelling and grammar corrections.
 
 ### Installation
-pip install spellygrammar
+pip install spellygrammarc
 
 # Build Status
 in process
