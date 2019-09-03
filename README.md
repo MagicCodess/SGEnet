@@ -2,7 +2,7 @@
 Comprehensive Python library for spelling and grammar.<br><br>
 
 # Getting Started
-SGnet is a comprehensive library for performing spelling and grammar corrections.
+spellygrammarc(SGnet) is a comprehensive library for performing spelling and grammar corrections.
 
 ### Installation
 pip install spellygrammar
@@ -13,7 +13,7 @@ in process
 # Code Style
 
 ```
-from spellygrammar import spelly
+from spellygrammarc import spelly
 spelly('What is your domicil city')
 >>['what','is','your','domicile','city']
 ```
