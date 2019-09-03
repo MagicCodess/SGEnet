@@ -13,11 +13,9 @@ in process
 # Code Style
 
 ```
-from voicenet import train
-obj1 = train
-train.get_gender("path of the voice file", model = "auto")
-['male'] #if gender is male
-['female'] #if gender is female
+from spellygrammar import spelly
+spelly('What is your domicil city')
+>>['what','is','your','domicile','city']
 ```
 
 # Screenshots
