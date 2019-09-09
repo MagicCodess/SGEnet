@@ -2,10 +2,10 @@
 Comprehensive Python library for spelling and grammar.<br><br>
 
 # Getting Started
-spellygrammarc(SGEnet) is a comprehensive library for performing spelling and grammar corrections.
+SGEnet is a comprehensive library for performing spelling and grammar corrections.
 
 ### Installation
-pip install spellygrammarc
+pip install sgenet
 
 # Build Status
 in process
@@ -13,8 +13,8 @@ in process
 # Code Style
 
 ```
-from spellygrammarc import spelly
-spelly('What is your domicil city')
+from sgenet import spelling_correction
+spelling_correction('What is your domicil city')
 >>['what','is','your','domicile','city']
 ```
 
@@ -23,6 +23,9 @@ spelly('What is your domicil city')
 * Python 3.5.2
 * Numpy
 * Pandas
+* Gensim
+* wget
+* gzip
 
 # Features
 # Code Example
