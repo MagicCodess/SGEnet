@@ -1,8 +1,8 @@
-# SGnet
+# SGEnet
 Comprehensive Python library for spelling and grammar.<br><br>
 
 # Getting Started
-spellygrammarc(SGnet) is a comprehensive library for performing spelling and grammar corrections.
+spellygrammarc(SGEnet) is a comprehensive library for performing spelling and grammar corrections.
 
 ### Installation
 pip install spellygrammarc
@@ -29,12 +29,12 @@ spelly('What is your domicil city')
 # API Reference
 # Tests
 # How to use
-# Contributing to sgnet
+# Contributing to sgenet
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
 A detailed overview on how to contribute can be found in the contributing guide. There is also an overview on GitHub.
 
-If you are simply looking to start working with the sgnet codebase, navigate to the GitHub "issues" tab and start looking through interesting issues. There are a number of issues listed under Docs and good first issue where you could start out.
+If you are simply looking to start working with the sgenet codebase, navigate to the GitHub "issues" tab and start looking through interesting issues. There are a number of issues listed under Docs and good first issue where you could start out.
 
 You can also triage issues which may include reproducing bug reports, or asking for vital information such as version numbers or reproduction instructions.
 
@@ -46,6 +46,6 @@ Feel free to ask questions on the mailing list or on [Slack](https://robofied.sl
 [Akshat Gupta](https://in.linkedin.com/in/akshat-rg) <br>
 
 # License
-[BSD-3](https://github.com/Robofied/sgnet/blob/master/LICENSE)
+[BSD-3](https://github.com/Robofied/sgenet/blob/master/LICENSE)
 
 
