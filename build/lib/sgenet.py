@@ -1,4 +1,4 @@
-def spelly(sent):
+def spelling_correction(sent):
     import numpy as np 
     import pandas as pd
     from subprocess import check_output
@@ -7,6 +7,8 @@ def spelly(sent):
     import wget
     import gzip
     import gensim
+    import os
+
     #Downloading word2vec
     print("Downloading  Word2vec...")
     url = "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"

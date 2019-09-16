@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/sgenet.py
+src/sgenet.egg-info/PKG-INFO
+src/sgenet.egg-info/SOURCES.txt
+src/sgenet.egg-info/dependency_links.txt
+src/sgenet.egg-info/top_level.txt

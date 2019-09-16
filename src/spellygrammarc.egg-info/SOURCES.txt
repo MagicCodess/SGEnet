@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/spellygrammarc.py
-src/spellygrammarc.egg-info/PKG-INFO
-src/spellygrammarc.egg-info/SOURCES.txt
-src/spellygrammarc.egg-info/dependency_links.txt
-src/spellygrammarc.egg-info/top_level.txt
