@@ -7,6 +7,7 @@ def spelling_correction(sent):
     import wget
     import gzip
     import gensim
+    import nltk
     import os
     import sys
 
