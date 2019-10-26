@@ -7,7 +7,6 @@ def spelling_correction(sent):
     import wget
     import gzip
     import gensim
-    import os
 
     #Downloading word2vec
     print("Downloading  Word2vec...")
