@@ -25,7 +25,6 @@ spelling_correction('What is your domicil city')
 * Pandas
 * Gensim
 * wget
-* gzip
 
 # Features
 # Code Example
